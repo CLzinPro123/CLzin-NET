@@ -100,7 +100,7 @@
 "config_mode": "ssl_proxy", 
 "url_check_user": "http://177.153.20.93:5000", 
 "config_openvpn": "", 
-"proxy_hostname": "", 
+"proxy_hostname": "d2lw319xdy6x9h.cloudfront.net", 
 "sort_order": 1, "id": 10, "proxy_port": 443, "category": { "name": "OPERADORA CLARO", 
 "id": 2, "status": "ACTIVE", 
 "sort_order": 2, "user_id": 2, "slug": "0d22c23c-db46-45be-898b-dbead71915ee", 
