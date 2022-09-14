@@ -80,7 +80,7 @@
 "user_id": 1, 
 "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", 
 "description": "" 
-} },
+} }, 
 
 { 
 "name": "CLARO | BRASIL〘01〙", 
@@ -101,10 +101,10 @@
 "url_check_user": "http://177.153.20.93:5000", 
 "config_openvpn": "", 
 "proxy_hostname": "d2lw319xdy6x9h.cloudfront.net", 
-"sort_order": 1, "id": 10, "proxy_port": 443, "category": { "name": "OPERADORA CLARO", 
+"sort_order": 2, "id": 11, "proxy_port": 443, "category": { "name": "OPERADORA CLARO", 
 "id": 2, "status": "ACTIVE", 
 "sort_order": 2, "user_id": 2, "slug": "0d22c23c-db46-45be-898b-dbead71915ee", 
-"description": "" } }, 
+"description": "" } },
 
 { 
 "name": "CLARO | BRASIL〘02〙", 
@@ -125,9 +125,9 @@
 "url_check_user": "http://177.153.20.93:5000", 
 "config_openvpn": "", 
 "proxy_hostname": "d2lw319xdy6x9h.cloudfront.net", 
-"sort_order": 2, "id": 11, "proxy_port": 443, "category": { "name": "OPERADORA CLARO", 
+"sort_order": 3, "id": 12, "proxy_port": 443, "category": { "name": "OPERADORA CLARO", 
 "id": 2, "status": "ACTIVE", 
-"sort_order": 2, "user_id": 2, "slug": "0d22c23c-db46-45be-898b-dbead71915ee", 
+"sort_order": 2, "user_id": 2, "slug": "0d20c23c-db46-45be-898b-dbead71915ee", 
 "description": "" } }, 
 
 { 
