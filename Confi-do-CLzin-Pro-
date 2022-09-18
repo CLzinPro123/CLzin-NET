@@ -60,7 +60,7 @@
 "category_id": 1, 
 "v2ray_uuid": "", 
 "primary_dns_server": "1.1.1.1", 
-"payload": "GET / HTTP/1.1[crlf]Host: ssh-br1-ws.sshws.net[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]", 
+"payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]", 
 "status": "ACTIVE", 
 "secondary_dns_server": "1.0.0.1", 
 "sni": "", 
