@@ -285,7 +285,7 @@
 "udp_port": "7300", 
 "category_id": 3, "v2ray_uuid": "", 
 "primary_dns_server": "8.8.8.8", 
-"payload": "GET wss://duvidas.ampli.com.br/ HTTP/1.1[crlf]Host: pudim.hyvozin.ml[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: google.com[crlf][crlf]", 
+"payload": "GET wss://duvidas.ampli.com.br/ HTTP/1.1[crlf]Host: ssh-br1-ws.sshws.net[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: google.com[crlf][crlf]", 
 "status": "ACTIVE", 
 "secondary_dns_server": "8.8.4.4", 
 "sni": "duvidas.ampli.com.br", 
