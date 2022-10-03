@@ -199,7 +199,7 @@
 "proxy_hostname": "Atendimento.descomplica.com.br", 
 "sort_order": 2, "id": 12, "proxy_port": 443, "category": { "name": "OPERADORA CLARO", 
 "id": 2, "status": "ACTIVE", 
-"sort_order": 2, "user_id": 2, "slug": "0d20c23c-db46-45be-898b-dbead71915ee", 
+"sort_order": 2, "user_id": 2, "slug": "0d25c23c-db46-45be-898b-dbead71915ee", 
 "description": "" } },
 
 { 
@@ -223,7 +223,7 @@
 "proxy_hostname": "Atendimento.descomplica.com.br", 
 "sort_order": 3, "id": 13, "proxy_port": 443, "category": { "name": "OPERADORA CLARO", 
 "id": 2, "status": "ACTIVE", 
-"sort_order": 2, "user_id": 2, "slug": "0d20c33c-db46-45be-898b-dbead71915ee", 
+"sort_order": 2, "user_id": 2, "slug": "0d27c23c-db46-45be-898b-dbead71915ee", 
 "description": "" } },
 
 
@@ -248,7 +248,7 @@
 "proxy_hostname": "No.descomplica.com.br", 
 "sort_order": 4, "id": 14, "proxy_port": 443, "category": { "name": "OPERADORA CLARO", 
 "id": 2, "status": "ACTIVE", 
-"sort_order": 2, "user_id": 2, "slug": "0d20c43c-db46-45be-898b-dbead71915ee", 
+"sort_order": 2, "user_id": 2, "slug": "0d22c22c-db46-45be-898b-dbead71915ee", 
 "description": "" } },
 { 
 "name": "TIM | BRASIL〘01〙", 
