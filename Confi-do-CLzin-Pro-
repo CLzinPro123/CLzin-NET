@@ -175,7 +175,7 @@
 "proxy_hostname": "Atendimento.descomplica.com.br", 
 "sort_order": 1, "id": 10, "proxy_port": 443, "category": { "name": "OPERADORA CLARO", 
 "id": 2, "status": "ACTIVE", 
-"sort_order": 2, "user_id": 2, "slug": "0d20c29c-db46-45be-898b-dbead71915ee", 
+"sort_order": 2, "user_id": 2, "slug": "0d21c29c-db46-45be-898b-dbead71915ee", 
 "description": "" } }, 
 
 { 
