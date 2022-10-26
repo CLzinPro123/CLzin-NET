@@ -1,5 +1,5 @@
 {
-    "Version": "250",
+    "Version": "252",
     "ReleaseNotes": "Atualização Disponível \n Tim não está conectando? \n Teste a opção Tim sem saldo \n CLzin Mods",
     "Sms": "https://www.cmmtunel.ga//update/configmods/sms",
     "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/Confi-do-CLzin-Pro-/main/Confi-do-CLzin-Pro-",
@@ -10,15 +10,15 @@
     "UdpPort": "7300",
     "Servers": [
         {
-            "Name": "SERVIDOR VIPðŸ”¸",
+            "Name": "SERVIDOR BR",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "vps.cmmtunel.ga",
+            "ServerIP": "google.cloudeclypse.cf",
             "CheckUser": "http://168.138.158.49:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
+            "USER": "satan",
+            "PASS": "satan"
         },
         {
             "Name": "SERVIDOR FREEðŸ”¸",
