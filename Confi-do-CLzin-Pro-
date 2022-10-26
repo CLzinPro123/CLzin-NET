@@ -1,37 +1,217 @@
 {
-    "Version": "300",
-    "ReleaseNotes": "☁️ Nova atualização disponível ☁️",
-    "Sms": "https://www.cmmtunel.ga/update/configmods/sms",
-    "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/Confi-do-CLzin-Pro-/main/Confi-do-CLzin-Pro-",
+    "Version": "250",
+    "ReleaseNotes": "â˜ï¸ Nova atualizaÃ§Ã£o disponÃ­vel â˜ï¸",
+    "Sms": "https://www.cmmtunel.ga//update/configmods/sms",
+    "UrlUpdate": "https://www.cmmtunel.ga//update/configmods/config",
     "EmailFeedback": "",
-    "UrlContato": "",
-    "UrlTermos": "",
+    "UrlContato": "https://t.me/aisaka_chan",
+    "UrlTermos": "https://www.cmmtunel.ga/base/termos.php",
     "CheckUser": "true",
-    "UdpPort": "",
+    "UdpPort": "7300",
     "Servers": [
         {
-            "Name": "⚠️ ATUALIZE ⚠️",
+            "Name": "SERVIDOR VIPðŸ”¸",
             "TYPE": "premium",
-            "FLAG": "",
-            "ServerIP": "",
-            "CheckUser": "",
-            "ServerPort": "",
-            "SSLPort": "",
+            "FLAG": "br.png",
+            "ServerIP": "vps.cmmtunel.ga",
+            "CheckUser": "http://168.138.158.49:5454/checkUser",
+            "ServerPort": "22",
+            "SSLPort": "443",
             "USER": "",
             "PASS": ""
+        },
+        {
+            "Name": "SERVIDOR FREEðŸ”¸",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "vps2.cmmtunel.ga",
+            "CheckUser": "http://vps2.cmmtunel.ga:5454/checkUser",
+            "ServerPort": "22",
+            "SSLPort": "443",
+            "USER": "Login",
+            "PASS": "Free"
         }
     ],
     "Networks": [
         {
-            "Name": "⚠ ️O APLICATIVO ⚠️",
-            "FLAG": "",
-            "Payload": "",
+            "Name": "ðŸ“± VIVO ROTATE TLSWS 01 ðŸ“¡ðŸ’œ",
+            "FLAG": "vivo",
+            "Payload": "SCONNECT ssl://portaljud.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf]GET http://[rotate=www.youtube.com;www.google.com;www.tiktok.com][protocol][crlf]Host: [rotate=www.youtube.com;www.google.com;www.tiktok.com][crlf][crlf]",
+            "SNI": "portaljud.vivo.com.br",
+            "TlsIP": "104.18.7.80",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "ðŸ“± VIVO ROTATE TLSWS 02 ðŸ“¡ðŸ’œ",
+            "FLAG": "vivo",
+            "Payload": "SCONNECT ssl://carrinho-pos-familia.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf]GET http://[rotate=www.youtube.com;www.google.com;www.tiktok.com][protocol][crlf]Host: [rotate=www.youtube.com;www.google.com;www.tiktok.com][crlf][crlf]",
+            "SNI": "carrinho-pos-familia.vivo.com.br",
+            "TlsIP": "104.18.7.80",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "ðŸ“± VIVO ROTATE TLSWS 03 ðŸ“¡ðŸ’œ",
+            "FLAG": "vivo",
+            "Payload": "SCONNECT ssl://bam.nr-data.net HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf]GET http://[rotate=www.youtube.com;www.google.com;www.tiktok.com][protocol][crlf]Host: [rotate=www.youtube.com;www.google.com;www.tiktok.com][crlf][crlf]",
+            "SNI": "bam.nr-data.net",
+            "TlsIP": "162.247.241.14",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "ðŸ“± VIVO ROTATE TLSWS 04 ðŸ“¡ðŸ’œ",
+            "FLAG": "vivo",
+            "Payload": "SCONNECT ssl://proxy.hmtutors.ga HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf]GET http://[rotate=www.youtube.com;www.google.com;www.tiktok.com][protocol][crlf]Host: [rotate=www.youtube.com;www.google.com;www.tiktok.com][crlf][crlf]",
+            "SNI": "proxy.hmtutors.ga",
+            "TlsIP": "proxy.hmtutors.ga",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "ðŸ“± VIVO ROTATE TLSWS 05 ðŸ“¡ðŸ’œ",
+            "FLAG": "vivo",
+            "Payload": "SCONNECT ssl://bilder.smatch.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf]GET http://[rotate=www.youtube.com;www.google.com;www.tiktok.com][protocol][crlf]Host: [rotate=www.youtube.com;www.google.com;www.tiktok.com][crlf][crlf]",
+            "SNI": "bilder.smatch.com",
+            "TlsIP": "bilder.smatch.com",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "ðŸ“± VIVO ROTATE PROXY 01 ðŸ“¡ðŸ’œ",
+            "FLAG": "vivo",
+            "Payload": "GET wss://[rotate=gracegardencounseling.com;bam.nr-data.net;[app_host];vivoid.vivo.com.br;melhorplano.net;vivo360.vivo.com.br;vivorio.com.br;selectra.net.br;gprs.digitel.com.ve;power4fit.com;bolsas.alfaumuarama.edu.br;eventos.alfaumuarama.edu.br;concursos.alfaumuarama.edu.br;legado.vivo.com.br;carrinho-pos-familia.vivo.com.br;unpkg.com;cdnjs.cloudflare.com;portaljud.vivo.com.br;vivoemdia.vivo.com.br;fly218.com;rapehun.com] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
             "SNI": "",
             "TlsIP": "",
+            "ProxyIP": "104.18.7.80",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "ðŸ“± VIVO ROTATE PROXY 02 ðŸ“¡ðŸ’œ",
+            "FLAG": "vivo",
+            "Payload": "GET wss://[rotate=gracegardencounseling.com;bam.nr-data.net;[app_host];vivoid.vivo.com.br;melhorplano.net;vivo360.vivo.com.br;vivorio.com.br;selectra.net.br;gprs.digitel.com.ve;power4fit.com;bolsas.alfaumuarama.edu.br;eventos.alfaumuarama.edu.br;concursos.alfaumuarama.edu.br;legado.vivo.com.br;carrinho-pos-familia.vivo.com.br;unpkg.com;cdnjs.cloudflare.com;portaljud.vivo.com.br;vivoemdia.vivo.com.br;fly218.com;rapehun.com] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.18.6.80",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "ðŸ“± VIVO ROTATE PROXY 03 ðŸ“¡ðŸ’œ",
+            "FLAG": "vivo",
+            "Payload": "GET wss://[rotate=gracegardencounseling.com;bam.nr-data.net;[app_host];vivoid.vivo.com.br;melhorplano.net;vivo360.vivo.com.br;vivorio.com.br;selectra.net.br;gprs.digitel.com.ve;power4fit.com;bolsas.alfaumuarama.edu.br;eventos.alfaumuarama.edu.br;concursos.alfaumuarama.edu.br;legado.vivo.com.br;carrinho-pos-familia.vivo.com.br;unpkg.com;cdnjs.cloudflare.com;portaljud.vivo.com.br;vivoemdia.vivo.com.br;fly218.com;rapehun.com] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "162.247.241.14",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "ðŸ“± VIVO TLS DIRECT 01 ðŸ“¡ðŸ’œ",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "104.18.7.80",
             "ProxyIP": "",
             "ProxyPort": "",
             "Info": "Tlsws"
-
+        },
+        {
+            "Name": "ðŸ“± VIVO TLS DIRECT 02 ðŸ“¡ðŸ’œ",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "104.18.6.80",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "ðŸ“± VIVO TLS DIRECT 03 ðŸ“¡ðŸ’œ",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "162.247.241.14",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "ðŸ“± CLARO TLSWS ðŸ“¡â¤ï¸",
+            "FLAG": "claro",
+            "Payload": "GET wss://Atendimento.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+            "SNI": "Atendimento.descomplica.com.br",
+            "TlsIP": "Atendimento.descomplica.com.br",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "ðŸ“± CLARO PREZÃƒO ðŸ“¡â¤ï¸",
+            "FLAG": "claro",
+            "Payload": "",
+            "SNI": "m.waze.com",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Ssl"
+        },
+        {
+            "Name": "â•°â”ˆ[â˜ž>ðŸ“±ðŸ“¡ TIM 5G ULTRAðŸ’™",
+            "FLAG": "tim",
+            "Payload": "GET wss://workplaceservices.surveymonkey.com HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+            "SNI": "workplaceservices.surveymonkey.com",
+            "TlsIP": "104.16.51.111",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "â•°â”ˆ[â˜ž>ðŸ“±ðŸ“¡ TIM 5G VELOZðŸ’™",
+            "FLAG": "tim",
+            "Payload": "PROPPATCH wss://auth-uat-us.surveymonkey.com/ HTTP/1.200 [lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+            "SNI": "auth-uat-us.surveymonkey.com",
+            "TlsIP": "104.18.7.22",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "â•°â—•â•°ðŸŒ¦ï¸ TIM GOOGLEâ” ðŽð ðŸŒ¨ï¸ðŸŸ¢",
+            "FLAG": "tim",
+            "Payload": "GET wss://duvidas.ampli.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+            "SNI": "duvidas.ampli.com.br",
+            "TlsIP": "104.16.53.111",
+            "ProxyIP": "104.16.53.111",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "â•°â—•â•°ðŸ¥¶ TIM HELP ðŸ¥¶â—•â•°â—•",
+            "FLAG": "tim",
+            "Payload": "PATCH HTTP/1.0 [crlf]Host: map.qq.com[crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "209.14.2.16",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "â•°â—•ðŸ’™ TIM GERAL-ON ðŸŸ¢â—•â•°â—•",
+            "FLAG": "tim",
+            "Payload": "PROPPATCH wss://auth-uat-us.surveymonkey.com HTTP/1.200 [lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+            "SNI": "auth-uat-us.surveymonkey.com",
+            "TlsIP": "104.18.7.22",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
         }
     ]
 }
