@@ -21,7 +21,7 @@
   "Servers": [
     {
       "Name": "BRASIL 01",
-      "TYPE": "FREE",
+      "TYPE": "PREMIUM",
       "FLAG": "br.png",
       "ServerIP": "awfree.amzhotajx.ga",
       "CheckUser": "",
