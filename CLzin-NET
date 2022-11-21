@@ -1,0 +1,66 @@
+{
+  "Version": "1",
+  "ReleaseNotes": "Nova Atualiza??o dispon��vel :), atualize para se manter conectado (a)!",
+  "UrlUpdate": "https://bitbin.t/VJYQOUFV/raw/",
+  "Sms": "",
+  "EmailFeedback": "",
+  "UrlContato": "",
+  "UrlTermos": "",
+  "CheckUser": "true",
+  "Udp": [
+    {
+      "Porta": "7300"
+    },
+    {
+      "Porta": "7400"
+    },
+    {
+      "Porta": "7500"
+    }
+  ],
+  "Servers": [
+    {
+      "Name": "Atualize o ap",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+ ],
+ "Networks": [
+{
+   "Name": "VIVO EASY",
+   "FLAG": "vivo",
+   "Payload": "GET wss://help.cloudflareclient.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Connection: keep-alive[crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
+   "SNI": "help.cloudflareclient.com",
+   "TlsIP": "vigia.vivo.com.br",
+   "ProxyIP": "",
+   "ProxyPort": "443",
+   "Info": "Tlsws"
+  },
+  {
+   "Name": "TIM",
+   "FLAG": "tim",
+   "Payload": "GET wss://accesswdun.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf]Connection: Keep-Alive[crlf][crlf]",
+   "SNI": "accesswdun.com",
+   "TlsIP": "3cyber.com",
+   "ProxyIP": "",
+   "ProxyPort": "443",
+   "Info": "Tlsws"
+  },
+  {
+   "Name": "CLARO OFF",
+   "FLAG": "claro",
+   "Payload": "GET sni://4.icanhazip.com HTTP\/1.3[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf]Connection: Upgrade[crlf][crlf]",
+   "SNI": "4.icanhazip.com",
+   "TlsIP": "4.icanhazip.com",
+   "ProxyIP": "",
+   "ProxyPort": "443",
+   "Info": "Tlsws"
+  }
+ ]
+}
