@@ -1,7 +1,7 @@
 {
-  "Version": "1",
+  "Version": "2",
   "ReleaseNotes": "Nova Atualiza??o dispon��vel :), atualize para se manter conectado (a)!",
-  "UrlUpdate": "https://bitbin.t/VJYQOUFV/raw/",
+  "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzin-NET/main/CLzin-NET",
   "Sms": "",
   "EmailFeedback": "",
   "UrlContato": "",
@@ -20,34 +20,44 @@
   ],
   "Servers": [
     {
-      "Name": "Atualize o ap",
-      "TYPE": "premium",
+      "Name": "BRASIL 01",
+      "TYPE": "FREE",
       "FLAG": "br.png",
-      "ServerIP": "",
+      "ServerIP": "awfree.amzhotajx.ga",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
+      "USER": "0800",
+      "PASS": "0800"
     },
  ],
  "Networks": [
 {
    "Name": "VIVO EASY",
    "FLAG": "vivo",
-   "Payload": "GET wss://help.cloudflareclient.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Connection: keep-alive[crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
-   "SNI": "help.cloudflareclient.com",
-   "TlsIP": "vigia.vivo.com.br",
+   "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+   "SNI": "",
+   "TlsIP": "",
+   "ProxyIP": "104.18.7.80",
+   "ProxyPort": "80",
+   "Info": "Proxy"
+  },
+  {
+   "Name": "TIM",
+   "FLAG": "tim",
+   "Payload": "GET wss://smainfo.surveymonkey.com HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+   "SNI": "smainfo.surveymonkey.com",
+   "TlsIP": "104.17.71.206",
    "ProxyIP": "",
    "ProxyPort": "443",
    "Info": "Tlsws"
   },
   {
-   "Name": "TIM",
+   "Name": "TIM SEM SALDO",
    "FLAG": "tim",
-   "Payload": "GET wss://accesswdun.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf]Connection: Keep-Alive[crlf][crlf]",
-   "SNI": "accesswdun.com",
-   "TlsIP": "3cyber.com",
+   "Payload": "GET wss://duvidas.ampli.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+   "SNI": "duvidas.ampli.com.br",
+   "TlsIP": "duvidas.ampli.com.br",
    "ProxyIP": "",
    "ProxyPort": "443",
    "Info": "Tlsws"
