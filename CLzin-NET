@@ -30,6 +30,28 @@
       "USER": "0800",
       "PASS": "0800"
     },
+{
+      "Name": "BRASIL 02",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "awfree.amzhotajx.ga",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "1111",
+      "PASS": "1111"
+    },
+{
+      "Name": "BRASIL 03",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "awfree.amzhotajx.ga",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "PPPP",
+      "PASS": "PPPP"
+    },
  ],
  "Networks": [
 {
