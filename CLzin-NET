@@ -1,5 +1,5 @@
 {
-  "Version": "10",
+  "Version": "12",
   "ReleaseNotes": "Nova Atualização disponível🚀",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzin-NET/main/CLzin-NET",
   "Sms": "",
@@ -51,6 +51,28 @@
       "SSLPort": "443",
       "USER": "PPPP",
       "PASS": "PPPP"
+    },
+{
+      "Name": "BRASIL 04",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "brasil-02.mgttunnel.xyz",
+      "CheckUser": "Rapid vpn",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "free0002",
+      "PASS": "free0002"
+    },
+{
+      "Name": "BRASIL 05",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "brasil-03.mgttunnel.xyz",
+      "CheckUser": "Rapid vpn",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "free0003",
+      "PASS": "free0003"
     },
  ],
  "Networks": [
