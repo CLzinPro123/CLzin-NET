@@ -1,6 +1,6 @@
 {
-  "Version": "9",
-  "ReleaseNotes": "Nova Atualização disponível n/ CLzin NET🚀",
+  "Version": "10",
+  "ReleaseNotes": "Nova Atualização disponível🚀",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzin-NET/main/CLzin-NET",
   "Sms": "",
   "EmailFeedback": "",
@@ -73,7 +73,7 @@
       "SSLPort": "443",
       "USER": "free0003",
       "PASS": "free0003"
-    },
+    }
  ],
  "Networks": [
 {
