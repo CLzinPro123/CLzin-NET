@@ -52,28 +52,6 @@
       "USER": "PPPP",
       "PASS": "PPPP"
     },
-{
-      "Name": "BRASIL 04",
-      "TYPE": "PREMIUM",
-      "FLAG": "br.png",
-      "ServerIP": "brasil-02.mgttunnel.xyz",
-      "CheckUser": "",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "free0002",
-      "PASS": "free0002"
-    },
-{
-      "Name": "BRASIL 05",
-      "TYPE": "PREMIUM",
-      "FLAG": "br.png",
-      "ServerIP": "brasil-03.mgttunnel.xyz",
-      "CheckUser": "",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "free0003",
-      "PASS": "free0003"
-    },
  ],
  "Networks": [
 {
