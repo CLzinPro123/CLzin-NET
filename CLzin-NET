@@ -1,5 +1,5 @@
 {
-  "Version": "13",
+  "Version": "14",
   "ReleaseNotes": "Nova Atualização disponível🚀",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzin-NET/main/CLzin-NET",
   "Sms": "",
@@ -10,9 +10,6 @@
   "Udp": [
     {
       "Porta": "7300"
-    },
-    {
-      "Porta": "7400"
     },
     {
       "Porta": "7500"
