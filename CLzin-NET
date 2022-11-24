@@ -1,5 +1,5 @@
 {
-  "Version": "19",
+  "Version": "20",
   "ReleaseNotes": "Nova Atualização disponível🚀",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzin-NET/main/CLzin-NET",
   "Sms": "",
@@ -86,12 +86,12 @@
       "Name": "BRASIL SERVIDOR FRONT 07",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "d3az8a6nq9bo3a.cloudfront.net",
+      "ServerIP": "d1f4mnx7yzlgz3.cloudfront.net",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "sshnidoki",
-      "PASS": "sshnidoki"
+      "USER": "RusherXservers",
+      "PASS": "RusherXservers"
     },
 {
       "Name": "BRASIL SERVIDOR FRONT 08",
