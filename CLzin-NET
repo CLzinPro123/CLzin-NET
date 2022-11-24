@@ -1,5 +1,5 @@
 {
-  "Version": "14",
+  "Version": "15",
   "ReleaseNotes": "Nova Atualização disponível🚀",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzin-NET/main/CLzin-NET",
   "Sms": "",
@@ -71,6 +71,39 @@
       "USER": "free0001",
       "PASS": "free0001"
     },
+{
+      "Name": "BRASIL SERVIDOR FRONT 06",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "d38vvts38r8k83.cloudfront.net",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "sshnidoki",
+      "PASS": "sshnidoki"
+    },
+{
+      "Name": "BRASIL SERVIDOR FRONT 07",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "d3az8a6nq9bo3a.cloudfront.net",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "sshnidoki",
+      "PASS": "sshnidoki"
+    },
+{
+      "Name": "BRASIL SERVIDOR FRONT 08",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "d3v4z51rt0j9mh.cloudfront.net",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "DROID",
+      "PASS": "TURBO"
+    },
  ],
  "Networks": [
 {
@@ -83,6 +116,16 @@
    "ProxyPort": "80",
    "Info": "Proxy"
   },
+{
+   "Name": "VIVO FRONT",
+   "FLAG": "vivo",
+   "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+   "SNI": "",
+   "TlsIP": "",
+   "ProxyIP": "recarga.vivo.com.br",
+   "ProxyPort": "80",
+   "Info": "Proxy"
+  },
   {
    "Name": "TIM",
    "FLAG": "tim",
@@ -92,6 +135,16 @@
    "ProxyIP": "",
    "ProxyPort": "443",
    "Info": "Tlsws"
+  },
+{
+   "Name": "TIM FRONT",
+   "FLAG": "tim",
+   "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+   "SNI": "",
+   "TlsIP": "",
+   "ProxyIP": "99.84.252.128"",
+   "ProxyPort": "80",
+   "Info": "Proxy"
   },
   {
    "Name": "TIM SEM SALDO",
