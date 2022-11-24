@@ -1,5 +1,5 @@
 {
-  "Version": "17",
+  "Version": "18",
   "ReleaseNotes": "Nova Atualização disponível🚀 n/ Adicionado Servidores Front",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzin-NET/main/CLzin-NET",
   "Sms": "",
@@ -117,16 +117,6 @@
    "Info": "Proxy"
   },
   {
-   "Name": "VIVO FRONT",
-   "FLAG": "vivo",
-   "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
-   "SNI": "",
-   "TlsIP": "",
-   "ProxyIP": "recarga.vivo.com.br",
-   "ProxyPort": "80",
-   "Info": "Proxy"
-  },
-  {
    "Name": "TIM",
    "FLAG": "tim",
    "Payload": "GET wss://smainfo.surveymonkey.com HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
@@ -135,16 +125,6 @@
    "ProxyIP": "",
    "ProxyPort": "443",
    "Info": "Tlsws"
-  },
-  {
-   "Name": "TIM FRONT",
-   "FLAG": "tim",
-   "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
-   "SNI": "",
-   "TlsIP": "",
-   "ProxyIP": "99.84.252.128"",
-   "ProxyPort": "80",
-   "Info": "Proxy"
   },
   {
    "Name": "TIM SEM SALDO",
