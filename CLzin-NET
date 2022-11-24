@@ -1,5 +1,5 @@
 {
-  "Version": "15",
+  "Version": "16",
   "ReleaseNotes": "Nova Atualização disponível🚀",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzin-NET/main/CLzin-NET",
   "Sms": "",
@@ -116,7 +116,7 @@
    "ProxyPort": "80",
    "Info": "Proxy"
   },
-{
+  {
    "Name": "VIVO FRONT",
    "FLAG": "vivo",
    "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
@@ -136,7 +136,7 @@
    "ProxyPort": "443",
    "Info": "Tlsws"
   },
-{
+  {
    "Name": "TIM FRONT",
    "FLAG": "tim",
    "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
