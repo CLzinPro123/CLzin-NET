@@ -1,5 +1,5 @@
 {
-  "Version": "22",
+  "Version": "23",
   "ReleaseNotes": "Nova Atualização disponível🚀",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzin-NET/main/CLzin-NET",
   "Sms": "",
@@ -75,34 +75,45 @@
       "Name": "BRASIL SERVIDOR FRONT 06",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "d38vvts38r8k83.cloudfront.net",
+      "ServerIP": "di0j0fopmscny.cloudfront.net",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "sshnidoki",
-      "PASS": "sshnidoki"
+      "USER": "ITALOAHLIMMEVGID",
+      "PASS": "ITALOAHLIMMEVGIDO U T L I E R"
     },
 {
       "Name": "BRASIL SERVIDOR FRONT 07",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "d1f4mnx7yzlgz3.cloudfront.net",
+      "ServerIP": "d3kcli65ivlglc.cloudfront.net",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "RusherXservers",
-      "PASS": "RusherXservers"
+      "USER": "ITALOAHLIMMEVGID",
+      "PASS": "ITALOAHLIMMEVGIDO U T L I E R"
     },
 {
       "Name": "BRASIL SERVIDOR FRONT 08",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "d3v4z51rt0j9mh.cloudfront.net",
+      "ServerIP": "d1ankiiqp75aax.cloudfront.net",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "DROID",
-      "PASS": "TURBO"
+      "USER": "bitW3NVEFKHT B L r F c G SSH",
+      "PASS": "bitW3NVEFKHT B L r F c G SSH"
+    },
+{
+      "Name": "BRASIL SERVIDOR FRONT 09",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "d2f5h2zstwk2ri.cloudfront.net",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "bitW3NVEFKHT B L r F c G SSH",
+      "PASS": "bitW3NVEFKHT B L r F c G SSH"
     },
  ],
  "Networks": [
