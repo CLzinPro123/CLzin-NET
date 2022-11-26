@@ -1,5 +1,5 @@
 {
-  "Version": "23",
+  "Version": "24",
   "ReleaseNotes": "Nova Atualização disponível🚀",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzin-NET/main/CLzin-NET",
   "Sms": "",
@@ -20,12 +20,12 @@
       "Name": "BRASIL 01",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "awfree.amzhotajx.ga",
+      "ServerIP": "svl18.deanpola.xyz",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "0800",
-      "PASS": "0800"
+      "USER": "ITALOAHLIMMEVGID",
+      "PASS": "ITALOAHLIMMEVGIDO U T L I E R"
     },
 {
       "Name": "BRASIL 02",
@@ -72,10 +72,10 @@
       "PASS": "free0001"
     },
 {
-      "Name": "BRASIL SERVIDOR FRONT 06",
+      "Name": "BRASIL SERVIDOR FRONT R.H 06",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "di0j0fopmscny.cloudfront.net",
+      "ServerIP": "svl30.deanpola.xyz",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -83,10 +83,10 @@
       "PASS": "ITALOAHLIMMEVGIDO U T L I E R"
     },
 {
-      "Name": "BRASIL SERVIDOR FRONT 07",
+      "Name": "BRASIL SERVIDOR FRONT R.H 07",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "d3kcli65ivlglc.cloudfront.net",
+      "ServerIP": "svl32.deanpola.xyz",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -94,10 +94,10 @@
       "PASS": "ITALOAHLIMMEVGIDO U T L I E R"
     },
 {
-      "Name": "BRASIL SERVIDOR FRONT 08",
+      "Name": "BRASIL SERVIDOR FRONT S.L 08",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "d1ankiiqp75aax.cloudfront.net",
+      "ServerIP": "servidor30.sockslite.com",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -105,10 +105,10 @@
       "PASS": "bitW3NVEFKHT B L r F c G SSH"
     },
 {
-      "Name": "BRASIL SERVIDOR FRONT 09",
+      "Name": "BRASIL SERVIDOR FRONT S.L 09",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "d2f5h2zstwk2ri.cloudfront.net",
+      "ServerIP": "servidor32.sockslite.com",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -128,9 +128,19 @@
    "Info": "Proxy"
   },
 {
-      "Name": "VIVO FRONT",
+      "Name": "VIVO FRONT R.H",
     "FLAG": "vivo",
-    "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+    "Payload": "GET / HTTP/1.1[crlf]Host: [random=di0j0fopmscny.cloudfront.net;d16gw069sdxfey.cloudfront.net;d3kcli65ivlglc.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "recarga.vivo.com.br",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+    },
+{
+      "Name": "VIVO FRONT S.L",
+    "FLAG": "vivo",
+    "Payload": "GET / HTTP/1.1[crlf]Host: [random=d1ankiiqp75aax.cloudfront.net;d2iw2mb0i63m4j.cloudfront.net;d2f5h2zstwk2ri.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
     "SNI": "",
     "TlsIP": "",
     "ProxyIP": "recarga.vivo.com.br",
