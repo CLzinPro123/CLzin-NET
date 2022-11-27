@@ -1,5 +1,5 @@
 {
-  "Version": "24",
+  "Version": "25",
   "ReleaseNotes": "Nova Atualização disponível🚀",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzin-NET/main/CLzin-NET",
   "Sms": "",
@@ -178,11 +178,21 @@
    "Info": "Tlsws"
   },
   {
-   "Name": "CLARO OFF",
+   "Name": "CLARO FRONT TESTE 01",
    "FLAG": "claro",
-   "Payload": "GET sni://4.icanhazip.com HTTP\/1.3[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf]Connection: Upgrade[crlf][crlf]",
-   "SNI": "4.icanhazip.com",
-   "TlsIP": "4.icanhazip.com",
+   "Payload": "GET / HTTP/1.1[crlf]Host: [random=di0j0fopmscny.cloudfront.net;d16gw069sdxfey.cloudfront.net;d3kcli65ivlglc.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+   "SNI": "",
+   "TlsIP": "",
+   "ProxyIP": "commandcenter.claro.com.br",
+   "ProxyPort": "80",
+   "Info": "Proxy"
+  },
+{
+   "Name": "CLARO FRONT TESTE 02",
+   "FLAG": "claro",
+   "Payload": "GET / HTTP/1.1[crlf]Host: [random=di0j0fopmscny.cloudfront.net;d16gw069sdxfey.cloudfront.net;d3kcli65ivlglc.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+   "SNI": "commandcenter.claro.com.br",
+   "TlsIP": "commandcenter.claro.com.br",
    "ProxyIP": "",
    "ProxyPort": "443",
    "Info": "Tlsws"
