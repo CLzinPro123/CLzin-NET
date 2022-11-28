@@ -1,5 +1,5 @@
 {
-  "Version": "27",
+  "Version": "28",
   "ReleaseNotes": "Nova Atualização disponível🚀",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzin-NET/main/CLzin-NET",
   "Sms": "",
@@ -20,12 +20,12 @@
       "Name": "BRASIL 01",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "svl18.deanpola.xyz",
-      "CheckUser": "",
+      "ServerIP": "svfree2dp.gdmhost.ga",
+      "CheckUser": "DP NET PRO",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "ITALOAHLIMMEVGID",
-      "PASS": "ITALOAHLIMMEVGIDO U T L I E R"
+      "USER": "@@DPNETTTPRO",
+      "PASS": "@@DPNETTTPRO"
     },
 {
       "Name": "BRASIL 02",
